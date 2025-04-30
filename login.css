@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #fff;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+div{
+  background: #ccc;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 5px 5px #555;
+  text-align: center;
+  width: 300px;
+}
+
+input{
+  border-radius: 5px;
+  box-shadow: 4px 4px #444;
+}
+
+button {
+  padding: 10px 20px;
+  border-radius: 20px;
+  background: white;
+  box-shadow: 4px 4px #444;
+  font-weight: bold;
+}
